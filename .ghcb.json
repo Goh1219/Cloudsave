@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "Goh1219",
+  "repo": "Cloudsave",
+  "branch": "SavingFiles",
+  "mappings": [
+    {
+      "machine_id": "55f96e4938b516fde17ee8d6047a4058bc148d6d",
+      "machine_name": "MSI",
+      "path": "C:\\Users\\zheny\\AppData\\Roaming\\Balatro",
+      "os": "Windows",
+      "last_updated": "2025-11-27T20:05:01.843310+00:00"
+    }
+  ],
+  "updated_at": "2025-11-27T20:05:01.843310+00:00"
+}
